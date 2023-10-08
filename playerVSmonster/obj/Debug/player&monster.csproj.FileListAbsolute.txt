@@ -1,0 +1,7 @@
+F:\ИСРПО\player&moster\player&moster\bin\Debug\player&moster.exe.config
+F:\ИСРПО\player&moster\player&moster\bin\Debug\player&moster.exe
+F:\ИСРПО\player&moster\player&moster\bin\Debug\player&moster.pdb
+F:\ИСРПО\player&moster\player&moster\obj\Debug\player&monster.csproj.AssemblyReference.cache
+F:\ИСРПО\player&moster\player&moster\obj\Debug\player&monster.csproj.CoreCompileInputs.cache
+F:\ИСРПО\player&moster\player&moster\obj\Debug\player&moster.exe
+F:\ИСРПО\player&moster\player&moster\obj\Debug\player&moster.pdb

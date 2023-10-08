@@ -1,0 +1,7 @@
+F:\ИСРПО\playerVSmonster\playerVSmonster\bin\Debug\player&moster.exe.config
+F:\ИСРПО\playerVSmonster\playerVSmonster\bin\Debug\player&moster.exe
+F:\ИСРПО\playerVSmonster\playerVSmonster\bin\Debug\player&moster.pdb
+F:\ИСРПО\playerVSmonster\playerVSmonster\obj\Debug\playerVSmonster.csproj.AssemblyReference.cache
+F:\ИСРПО\playerVSmonster\playerVSmonster\obj\Debug\playerVSmonster.csproj.CoreCompileInputs.cache
+F:\ИСРПО\playerVSmonster\playerVSmonster\obj\Debug\player&moster.exe
+F:\ИСРПО\playerVSmonster\playerVSmonster\obj\Debug\player&moster.pdb
